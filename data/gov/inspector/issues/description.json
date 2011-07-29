@@ -56,10 +56,10 @@
 			}
 		},
 		"unit": {
-			"type": "ref",
+			"type": "reflist",
 			"params": [ "data/gov/inspector/units" ],
 			"description": {
-				"en": "The executive unit under whose jurisdiction the issue is",
+				"en": "A list of executive units under whose jurisdiction the issue",
 				"he": "היחידה אשר הליקוי נמצא בתחום השיפוט שלה"
 			}
 		},
